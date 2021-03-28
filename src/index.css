@@ -1,0 +1,14 @@
+body {
+  background-image: url("https://i.insider.com/5e5435f3fee23d5f7e1e8fe8?width=700");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  font-family: var(--myfont);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+}
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
